@@ -6,11 +6,11 @@ DDxNet is a novel fully convolutional neural network architecture for time-varyi
 ![DDxNet Architecture](https://github.com/Drajan/DDxNet/blob/master/figures/arch.jpg)
 
 **Results on Arrhythmia Classification:**
-![Loss](https://github.com/Drajan/DDxNet/blob/master/figures/mit_loss.jpg)
-![Accuracy](https://github.com/Drajan/DDxNet/blob/master/figures/mit_acc.jpg)
+![Loss](https://github.com/Drajan/DDxNet/blob/master/figures/mit_loss.png)
+![Accuracy](https://github.com/Drajan/DDxNet/blob/master/figures/mit_acc.png)
 
 **Generalization Performance of Detecting Unseen Cardiac Diseases:**
-![Accuracy](https://github.com/Drajan/DDxNet/blob/master/figures/incart.pdf)
+![Accuracy](https://github.com/Drajan/DDxNet/blob/master/figures/incart.png)
 
 -----
 ## Usage
