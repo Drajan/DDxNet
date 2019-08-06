@@ -3,7 +3,7 @@
 
 DDxNet is a novel fully convolutional neural network architecture for time-varying clinical data. We demonstrate it's effectiveness for a variety of diagnostic tasks involving different modalities (ECG/EEG/EHR), required level of characterization (abnormality detection/phenotyping) and data fidelity (single-lead ECG/22-channel EEG). Using multiple challenging benchmark problems with EEG, ECG and EHR, we show that DDxNet produces high-fidelity predictive models in all cases, and more importantly provides significant performance gains over methods specifically designed for each of those problems. The architecture is depicted in the figure below:
 <!-- ## DDxNet Architecture and Performance -->
-![DDxNet Architecture](https://github.com/Drajan/DDxNet/blob/master/figures/arch.png)
+![DDxNet Architecture](https://github.com/Drajan/DDxNet/blob/master/figures/arch.png&s=50)
 
 **Results on Arrhythmia Classification:**
 ![Loss](https://github.com/Drajan/DDxNet/blob/master/figures/mit_loss.png)
