@@ -53,10 +53,14 @@ The benchmark dataset for phenotyping was then prepared using the mimic3-benchma
 
 If you find DDxNet useful in your research, please cite the following paper:
 ```
-@article{,
-  title={DDxNet: A Multi-Specialty Diagnostic Model for Clinical Time-Series},
-  author={Thiagarajan, Jayaraman J and Rajan, Deepta and Katoch, Sameeksha},
-  journal={},
-  year={2019}
+@article{thiagarajan2020ddxnet,
+  title={DDxNet: a deep learning model for automatic interpretation of electronic health records, electrocardiograms and electroencephalograms},
+  author={Thiagarajan, Jayaraman J and Rajan, Deepta and Katoch, Sameeksha and Spanias, Andreas},
+  journal={Scientific reports},
+  volume={10},
+  number={1},
+  pages={1--11},
+  year={2020},
+  publisher={Nature Publishing Group}
 }
 ```
